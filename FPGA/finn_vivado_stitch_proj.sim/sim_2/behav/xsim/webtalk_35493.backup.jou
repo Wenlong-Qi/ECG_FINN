@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:35 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon May 10 17:15:11 2021
+# Process ID: 35493
+# Current directory: /home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.sim/sim_2/behav/xsim
+# Command line: wbtcv -mode batch -source /home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.sim/sim_2/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.sim/sim_2/behav/xsim/webtalk.log
+# Journal file: /home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.sim/sim_2/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.sim/sim_2/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,96 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/c5b2/Q_srl.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/c5b2/StreamingFIFO_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFIFO_0_0/sim/finn_design_StreamingFIFO_0_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGbkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGene_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGfYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/regslice_core.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGenerator_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_ConvolutionInputGenerator_0_0/sim/finn_design_ConvolutionInputGenerator_0_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f1ac/hdl/verilog/StreamingDataWidthConverter_Batch_0_StreamingDataWidthCo_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f1ac/hdl/verilog/StreamingDataWidthConverter_Batch_0_StreamingDataWidthConverter_Batch_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_0_0/sim/finn_design_StreamingDataWidthConverter_Batch_0_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Actbkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Actcud.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_ActdEe.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_ActeOg.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_ActfYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Actg8j.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Activa.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_hbi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_ibs.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_jbC.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_Batch_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_0_0/sim/finn_design_StreamingFCLayer_Batch_0_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/e745/hdl/verilog/StreamingDataWidthConverter_Batch_1_StreamingDataWidthCo_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/e745/hdl/verilog/StreamingDataWidthConverter_Batch_1_StreamingDataWidthConverter_Batch_1.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_1_0/sim/finn_design_StreamingDataWidthConverter_Batch_1_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/68cd/hdl/verilog/StreamingMaxPool_Batch_0_StreamingMaxPool_bkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/68cd/hdl/verilog/StreamingMaxPool_Batch_0_StreamingMaxPool_Pre.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/68cd/hdl/verilog/StreamingMaxPool_Batch_0_StreamingMaxPool_Batch_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingMaxPool_Batch_0_0/sim/finn_design_StreamingMaxPool_Batch_0_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/2003/hdl/verilog/StreamingDataWidthConverter_Batch_2_StreamingDataWidthCo_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/2003/hdl/verilog/StreamingDataWidthConverter_Batch_2_StreamingDataWidthConverter_Batch_2.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_2_0/sim/finn_design_StreamingDataWidthConverter_Batch_2_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGbkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGene_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGfYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGenerator_1.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_ConvolutionInputGenerator_1_0/sim/finn_design_ConvolutionInputGenerator_1_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/650e/hdl/verilog/StreamingDataWidthConverter_Batch_3_StreamingDataWidthCo_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/650e/hdl/verilog/StreamingDataWidthConverter_Batch_3_StreamingDataWidthConverter_Batch_3.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_3_0/sim/finn_design_StreamingDataWidthConverter_Batch_3_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_Matrix_Vector_Activa.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_bkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_cud.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_dEe.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_eOg.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_fYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_g8j.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_Batch_1.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_1_0/sim/finn_design_StreamingFCLayer_Batch_1_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/0d80/hdl/verilog/StreamingDataWidthConverter_Batch_4_StreamingDataWidthCo_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/0d80/hdl/verilog/StreamingDataWidthConverter_Batch_4_StreamingDataWidthConverter_Batch_4.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_4_0/sim/finn_design_StreamingDataWidthConverter_Batch_4_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGbkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGene_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGfYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGenerator_2.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_ConvolutionInputGenerator_2_0/sim/finn_design_ConvolutionInputGenerator_2_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ae85/hdl/verilog/StreamingDataWidthConverter_Batch_5_StreamingDataWidthCo_1.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ae85/hdl/verilog/StreamingDataWidthConverter_Batch_5_StreamingDataWidthConverter_Batch_5.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_5_0/sim/finn_design_StreamingDataWidthConverter_Batch_5_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_Actbkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_Actcud.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_ActdEe.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_Activa.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_eOg.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_fYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_g8j.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_Batch_2.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_2_0/sim/finn_design_StreamingFCLayer_Batch_2_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_Actbkb.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_Actcud.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_ActdEe.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_Activa.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_eOg.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_fYi.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_g8j.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_Batch_3.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_3_0/sim/finn_design_StreamingFCLayer_Batch_3_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2c1/hdl/verilog/LabelSelect_Batch_0_LabelSelect_Batch.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2c1/hdl/verilog/LabelSelect_Batch_0_LabelSelect_Batch_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_LabelSelect_Batch_0_0/sim/finn_design_LabelSelect_Batch_0_0.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/82df/StreamingFIFO_1.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFIFO_1_0/sim/finn_design_StreamingFIFO_1_0.v" \
+"../../../../finn_vivado_stitch_proj.ip_user_files/bd/finn_design/sim/finn_design.v" \
+"../../../../finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/hdl/finn_design_wrapper.v" \
+"../../../../test_for_finn.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,211 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/c5b2/Q_srl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Q_srl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/c5b2/StreamingFIFO_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFIFO_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFIFO_0_0/sim/finn_design_StreamingFIFO_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingFIFO_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_0_ConvolutionInputGbkb_ram
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_0_ConvolutionInputGbkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGene_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_0_ConvolutionInputGene_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGfYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_0_ConvolutionInputGfYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/regslice_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regslice_both
+INFO: [VRFC 10-311] analyzing module regslice_forward
+INFO: [VRFC 10-311] analyzing module regslice_reverse
+INFO: [VRFC 10-311] analyzing module regslice_both_w1
+INFO: [VRFC 10-311] analyzing module regslice_forward_w1
+INFO: [VRFC 10-311] analyzing module regslice_reverse_w1
+INFO: [VRFC 10-311] analyzing module ibuf
+INFO: [VRFC 10-311] analyzing module obuf
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/fab4/hdl/verilog/ConvolutionInputGenerator_0_ConvolutionInputGenerator_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_0_ConvolutionInputGenerator_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_ConvolutionInputGenerator_0_0/sim/finn_design_ConvolutionInputGenerator_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_ConvolutionInputGenerator_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f1ac/hdl/verilog/StreamingDataWidthConverter_Batch_0_StreamingDataWidthCo_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_0_StreamingDataWidthCo_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f1ac/hdl/verilog/StreamingDataWidthConverter_Batch_0_StreamingDataWidthConverter_Batch_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_0_StreamingDataWidthConverter_Batch_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_0_0/sim/finn_design_StreamingDataWidthConverter_Batch_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingDataWidthConverter_Batch_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Actbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Actbkb_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Actbkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Actcud.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Actcud_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Actcud
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_ActdEe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_ActdEe_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_ActdEe
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_ActeOg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_ActeOg_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_ActeOg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_ActfYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_ActfYi_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_ActfYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Actg8j.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Actg8j_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Actg8j
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_Matrix_Vector_Activa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_Matrix_Vector_Activa
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_hbi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_hbi_Mul_LUT_0
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_hbi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_ibs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_ibs_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_ibs
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_jbC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_jbC_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_jbC
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/aa04/hdl/verilog/StreamingFCLayer_Batch_0_StreamingFCLayer_Batch_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_0_StreamingFCLayer_Batch_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_0_0/sim/finn_design_StreamingFCLayer_Batch_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingFCLayer_Batch_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/e745/hdl/verilog/StreamingDataWidthConverter_Batch_1_StreamingDataWidthCo_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_1_StreamingDataWidthCo_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/e745/hdl/verilog/StreamingDataWidthConverter_Batch_1_StreamingDataWidthConverter_Batch_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_1_StreamingDataWidthConverter_Batch_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_1_0/sim/finn_design_StreamingDataWidthConverter_Batch_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingDataWidthConverter_Batch_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/68cd/hdl/verilog/StreamingMaxPool_Batch_0_StreamingMaxPool_bkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingMaxPool_Batch_0_StreamingMaxPool_bkb_ram
+INFO: [VRFC 10-311] analyzing module StreamingMaxPool_Batch_0_StreamingMaxPool_bkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/68cd/hdl/verilog/StreamingMaxPool_Batch_0_StreamingMaxPool_Pre.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingMaxPool_Batch_0_StreamingMaxPool_Pre
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/68cd/hdl/verilog/StreamingMaxPool_Batch_0_StreamingMaxPool_Batch_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingMaxPool_Batch_0_StreamingMaxPool_Batch_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingMaxPool_Batch_0_0/sim/finn_design_StreamingMaxPool_Batch_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingMaxPool_Batch_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/2003/hdl/verilog/StreamingDataWidthConverter_Batch_2_StreamingDataWidthCo_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_2_StreamingDataWidthCo_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/2003/hdl/verilog/StreamingDataWidthConverter_Batch_2_StreamingDataWidthConverter_Batch_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_2_StreamingDataWidthConverter_Batch_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_2_0/sim/finn_design_StreamingDataWidthConverter_Batch_2_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingDataWidthConverter_Batch_2_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_1_ConvolutionInputGbkb_ram
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_1_ConvolutionInputGbkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGene_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_1_ConvolutionInputGene_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGfYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_1_ConvolutionInputGfYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2b8/hdl/verilog/ConvolutionInputGenerator_1_ConvolutionInputGenerator_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_1_ConvolutionInputGenerator_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_ConvolutionInputGenerator_1_0/sim/finn_design_ConvolutionInputGenerator_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_ConvolutionInputGenerator_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/650e/hdl/verilog/StreamingDataWidthConverter_Batch_3_StreamingDataWidthCo_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_3_StreamingDataWidthCo_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/650e/hdl/verilog/StreamingDataWidthConverter_Batch_3_StreamingDataWidthConverter_Batch_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_3_StreamingDataWidthConverter_Batch_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_3_0/sim/finn_design_StreamingDataWidthConverter_Batch_3_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingDataWidthConverter_Batch_3_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_Matrix_Vector_Activa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_Matrix_Vector_Activa
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_bkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_bkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_cud.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_cud_Mul_LUT_0
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_cud
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_dEe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_dEe_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_dEe
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_eOg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_eOg_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_eOg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_fYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_fYi_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_fYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_g8j.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_g8j_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_g8j
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/6a71/hdl/verilog/StreamingFCLayer_Batch_1_StreamingFCLayer_Batch_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_1_StreamingFCLayer_Batch_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_1_0/sim/finn_design_StreamingFCLayer_Batch_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingFCLayer_Batch_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/0d80/hdl/verilog/StreamingDataWidthConverter_Batch_4_StreamingDataWidthCo_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_4_StreamingDataWidthCo_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/0d80/hdl/verilog/StreamingDataWidthConverter_Batch_4_StreamingDataWidthConverter_Batch_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_4_StreamingDataWidthConverter_Batch_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_4_0/sim/finn_design_StreamingDataWidthConverter_Batch_4_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingDataWidthConverter_Batch_4_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_2_ConvolutionInputGbkb_ram
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_2_ConvolutionInputGbkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGene_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_2_ConvolutionInputGene_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGfYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_2_ConvolutionInputGfYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/51d1/hdl/verilog/ConvolutionInputGenerator_2_ConvolutionInputGenerator_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConvolutionInputGenerator_2_ConvolutionInputGenerator_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_ConvolutionInputGenerator_2_0/sim/finn_design_ConvolutionInputGenerator_2_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_ConvolutionInputGenerator_2_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ae85/hdl/verilog/StreamingDataWidthConverter_Batch_5_StreamingDataWidthCo_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_5_StreamingDataWidthCo_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ae85/hdl/verilog/StreamingDataWidthConverter_Batch_5_StreamingDataWidthConverter_Batch_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingDataWidthConverter_Batch_5_StreamingDataWidthConverter_Batch_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingDataWidthConverter_Batch_5_0/sim/finn_design_StreamingDataWidthConverter_Batch_5_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingDataWidthConverter_Batch_5_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_Actbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_Actbkb_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_Actbkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_Actcud.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_Actcud_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_Actcud
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_ActdEe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_ActdEe_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_ActdEe
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_Matrix_Vector_Activa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_Matrix_Vector_Activa
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_eOg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_StreamingFCLayer_eOg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_fYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_StreamingFCLayer_fYi_Mul_LUT_0
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_StreamingFCLayer_fYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_g8j.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_StreamingFCLayer_g8j_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_StreamingFCLayer_g8j
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/f165/hdl/verilog/StreamingFCLayer_Batch_2_StreamingFCLayer_Batch_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_2_StreamingFCLayer_Batch_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_2_0/sim/finn_design_StreamingFCLayer_Batch_2_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingFCLayer_Batch_2_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_Actbkb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_Actbkb_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_Actbkb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_Actcud.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_Actcud_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_Actcud
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_ActdEe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_ActdEe_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_ActdEe
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_Matrix_Vector_Activa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_Matrix_Vector_Activa
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_eOg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_StreamingFCLayer_eOg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_fYi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_StreamingFCLayer_fYi_Mul_LUT_0
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_StreamingFCLayer_fYi
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_g8j.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_StreamingFCLayer_g8j_rom
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_StreamingFCLayer_g8j
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/ba05/hdl/verilog/StreamingFCLayer_Batch_3_StreamingFCLayer_Batch_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFCLayer_Batch_3_StreamingFCLayer_Batch_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFCLayer_Batch_3_0/sim/finn_design_StreamingFCLayer_Batch_3_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingFCLayer_Batch_3_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2c1/hdl/verilog/LabelSelect_Batch_0_LabelSelect_Batch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LabelSelect_Batch_0_LabelSelect_Batch
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/d2c1/hdl/verilog/LabelSelect_Batch_0_LabelSelect_Batch_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LabelSelect_Batch_0_LabelSelect_Batch_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_LabelSelect_Batch_0_0/sim/finn_design_LabelSelect_Batch_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_LabelSelect_Batch_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/ipshared/82df/StreamingFIFO_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StreamingFIFO_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/ip/finn_design_StreamingFIFO_1_0/sim/finn_design_StreamingFIFO_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_StreamingFIFO_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.ip_user_files/bd/finn_design/sim/finn_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/finn_vivado_stitch_proj.srcs/sources_1/bd/finn_design/hdl/finn_design_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finn_design_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/wenlong/Desktop/vivado_stitch_proj_qsclxew6/test_for_finn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
